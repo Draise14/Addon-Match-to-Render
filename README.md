@@ -1,3 +1,4 @@
+![https://static-2.gumroad.com/res/gumroad-public-storage/variants/x6bida3j2nm6olyl4tjcw9cz7qga/863e71bca49b1d996cbba6a1171aa48abf862c5dc070868836b79f346192c66f](https://static-2.gumroad.com/res/gumroad-public-storage/variants/x6bida3j2nm6olyl4tjcw9cz7qga/863e71bca49b1d996cbba6a1171aa48abf862c5dc070868836b79f346192c66f)
 # About
 I made these little entries to streamline the workflow of visibility and rendering, because when working with many objects, the render visibility sometimes is not the same as the viewport visibility. When you hit render, things are hidden or shown accidentally, ruining good renders - the final Render output is the important one. The viewport should reflect that. This is a visibility quality check UX.
 
