@@ -11,6 +11,9 @@ Match from viewport (updates render and view to viewport settings)
 Match from render (updates view and viewport to render settings)
 Updates
 
+**[Ver 1.0.5_1]**
+- Adds support for matching render/viewport visibility for modifiers as well, this now happens automatically when you hit "Match from... render/viewport".
+
 **[Ver 1.0.6]**
 - Fixed: removed a bug that would try to iterate all the objects in all the scenes, instead of only in the active scene as it should. Naughty boy.
 
